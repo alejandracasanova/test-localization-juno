@@ -19,3 +19,4 @@ Harry Potter and the Chamber of Secrets is the second book in the Harry Potter s
 ## Quotes
 - "It is our choices, Harry, that show what we truly are, far more than our abilities." - Albus Dumbledore
 - "The Chamber of Secrets has been opened. Enemies of the heir, beware." - Message written on the wall at Hogwarts
+editing here
